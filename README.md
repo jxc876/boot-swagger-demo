@@ -7,8 +7,8 @@ This demo integrates Swagger UI with Spring Boot
 
 
 # Open Browser
-Navigate to http://localhost:8080 
-Navigate to http://localhost:8080/api-docs 
+* Navigate to <http://localhost:8080>
+* Navigate to <http://localhost:8080/api-docs>
 
 
 # Configuration
